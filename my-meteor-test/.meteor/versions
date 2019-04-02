@@ -65,6 +65,8 @@ reload@1.2.0
 retry@1.1.0
 routepolicy@1.1.0
 shell-server@0.4.0
+simple:highlight.js@1.0.9
+simple:markdown-templating@2.0.3
 socket-stream-client@0.2.2
 spacebars@1.0.15
 spacebars-compiler@1.1.3

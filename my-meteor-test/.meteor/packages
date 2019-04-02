@@ -23,3 +23,4 @@ less                          # Allows for css styling with *.less files
 jeeeyul:moment-with-langs
 twbs:bootstrap                #its bootstrap my dude
 markdown
+simple:markdown-templating

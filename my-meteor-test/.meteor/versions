@@ -40,6 +40,7 @@ launch-screen@1.1.1
 less@2.8.0
 livedata@1.0.18
 logging@1.1.20
+markdown@1.0.12
 meteor@1.9.2
 meteor-base@1.4.0
 minifier-css@1.4.1
@@ -64,6 +65,8 @@ reload@1.2.0
 retry@1.1.0
 routepolicy@1.1.0
 shell-server@0.4.0
+simple:highlight.js@1.0.9
+simple:markdown-templating@2.0.3
 socket-stream-client@0.2.2
 spacebars@1.0.15
 spacebars-compiler@1.1.3

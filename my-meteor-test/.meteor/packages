@@ -22,5 +22,5 @@ insecure@1.0.7                # Allow all DB writes from clients (for prototypin
 less                          # Allows for css styling with *.less files
 jeeeyul:moment-with-langs
 twbs:bootstrap                #its bootstrap my dude
-markdown
 simple:markdown-templating
+markdown

@@ -1,3 +1,5 @@
 <template name="home">
     {{> markdownHome}}
+    {{exampleHelper}}
+    {{> contextExample someText="I was set in the parent template's helper, as an argument."}}
 </template>

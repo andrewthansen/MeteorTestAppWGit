@@ -7,3 +7,5 @@ import './templates/home.html';
 import './templates/home.md';
 import './templates/about.html';
 import './templates/about.md';
+import './templates/home.js';
+import './templates/examples.html';

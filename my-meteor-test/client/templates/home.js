@@ -9,3 +9,9 @@ Template.home.onRendered(function homeOnRendered(){
 Template.home.onDestroyed(function homeOnDestroyed(){
     console.log("Destroyed the home template");
 });
+
+Template.home.helpers({
+    exampleHelper: function(){
+        return new Spacebars.SafeString('This text came from a helper with some <strong>HTML</strong>.');
+    }
+});

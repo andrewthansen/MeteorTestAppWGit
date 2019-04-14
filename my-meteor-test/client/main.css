@@ -1,4 +1,15 @@
-body {
-  padding: 10px;
-  font-family: sans-serif;
+body{
+  padding-left:10px;
+}
+h1{
+  color: red;
+}
+p{
+  color: blue;
+}
+hr{
+  height: 2px !important;
+  color: dimgrey;
+  background-color: dimgrey;
+  border: solid 2px dimgrey;
 }
